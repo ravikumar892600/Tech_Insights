@@ -1,3 +1,3 @@
 #TechInsights
-This is my Website
+This is my Website.
 Author - Ravi Kumar
